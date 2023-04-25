@@ -1,0 +1,2 @@
+ECHO is on.
+Message on branch then merge back to Master
